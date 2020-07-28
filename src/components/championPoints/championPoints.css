@@ -1,0 +1,10 @@
+.championPointsSlot{
+    display: flex;
+    padding: 10px;
+    border-bottom: 2px;
+    justify-content: space-between;
+}
+
+.championPointsSlotImage{
+    width: 60px;
+}

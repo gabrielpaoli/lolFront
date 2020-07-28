@@ -1,0 +1,29 @@
+.searchSummoner{
+    display: flex;
+    background-color: lightgray;
+}
+
+.searchSummonerInn{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.selectRegionSummoner{
+    display: block;
+    border: none;
+    width: 50px;
+    background: transparent;
+    font-size: 10px;
+    margin-right: 10px;
+}
+
+.inputSummoner{
+    font-size: 14px !important;
+    height: 32px !important;
+}
+
+.searchSummonerInn i:hover,
+.selectRegionSummoner:hover{
+    cursor: pointer;    
+}

@@ -1,0 +1,46 @@
+button:focus{
+	background-color: transparent;
+}
+
+.active{
+	display: block;
+}
+
+.inactive{
+	display: none;
+}
+
+.filterButton{
+	margin-right: 20px;
+}
+
+.filterButton button{
+	background-color: transparent;
+	border: 1px solid;
+	border-radius: 2px;
+	margin-bottom: 10px;
+}
+
+.filterButton-0 button{
+	background-color: #c5cae9;
+}
+
+.filterButton-1 button{
+	background-color: #d1c4e9;
+}
+
+.filterButton-2 button{
+	background-color: #bbdefb;
+}
+
+.filterButton-3 button{
+	background-color: #ffcdd2;
+}
+
+.filterButton-4 button{
+	background-color: #f8bbd0;
+}
+
+.filterButton-5 button{
+	background-color: #e1bee7;
+}

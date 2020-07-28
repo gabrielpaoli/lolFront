@@ -1,0 +1,23 @@
+
+.spellPopup {
+    display: none;
+    background: #e1e1e1;
+    padding: 20px;
+    min-height: 100px;
+    max-width: 400px;
+    position: absolute;
+    z-index: 100;
+  }
+
+  .spellPopup h5{
+    margin-top: 0;
+  }
+
+  .skillImage{
+    width: 64px;
+    height: 64px;
+  }
+
+  .skillImage:hover+.spellPopup {
+    display: block;
+  }

@@ -1,0 +1,29 @@
+.tier{
+    width: 100px;
+}
+
+.rankedStatsInn{
+    display: flex;
+}
+
+.imageRankedStats{
+    margin: 4px;
+	padding: 5px;
+	-webkit-flex: 1 6 30%;
+	flex: 1 6 30%;
+	-webkit-order: 1;
+	order: 1;
+}
+
+.imageRankedStats img{
+    width: 100%;
+}
+
+.infoRankedStats{
+    margin: 4px;
+	padding: 5px;
+	-webkit-flex: 1 6 270%;
+	flex: 1 6 70%;
+	-webkit-order: 2;
+	order: 2;    
+}

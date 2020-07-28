@@ -1,0 +1,64 @@
+.matchChampionImage{
+    width: 24px;
+}
+
+.miniMatchContainerInn{
+    max-width: 600px;
+    background-color: #eaeaea;
+    padding: 10px;
+}
+
+.itemSlot, .championSlot{
+    margin: 2px;
+}
+
+.matchTime{
+    font-size: 10px;
+    margin-bottom: 4px;
+}
+
+.summonerChampionImage{
+    width: 68px;
+}
+
+.containerMatch{
+    width: 140px;
+    float: right;
+}
+
+.itemImage{
+    width: 24px;
+}
+
+.containerItems{
+    width: 84px;
+}
+
+.victory{
+    color: #02b35e;
+    font-weight: 600;
+}
+
+.defeat{
+    color: #ca0101;
+    font-weight: 600;
+}
+
+.gameMode{
+    font-size: 10px;
+}
+
+.kda{
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    color: #4e4e4e;
+}
+
+.miniMatchData{
+    margin-bottom: 10px;
+}
+
+.lane{
+    font-size: 10px;
+}

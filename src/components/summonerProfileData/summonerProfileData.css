@@ -1,0 +1,16 @@
+.tier{
+    width: 100px;
+}
+
+.summonerName{
+    font-size: 30px;
+}
+
+.summonerProfileData{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.summonerProfileData div{
+    padding-left: 10px;
+}
